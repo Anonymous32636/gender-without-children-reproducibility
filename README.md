@@ -67,5 +67,4 @@ Both sources are external works authored by researchers being discussed; their n
 
 ## Anonymous-review handling
 
-This release intentionally includes no manuscript-author name, address, ORCID, funding declaration, project account link, or acknowledgments. The dates attached to ZIP members are normalized. Its public URLs point only to the papers being critiqued, not to an identifiable author profile. Before submitting, review the repository landing page and version-control metadata separately: anonymity of these files **does not, by itself, anonymize a GitHub account or its commits**.
-
+This release intentionally includes no manuscript-author name, address, ORCID, funding declaration, project account link, or acknowledgments. The dates attached to ZIP members are normalized. Its public URLs point only to the papers being critiqued, not to an identifiable author profile.
