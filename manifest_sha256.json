@@ -1,7 +1,9 @@
 {
-  "README.md": "84f62e49cfe5d9f74ccd39ed20cb5739165badbddaffa64b479fd00cce89dc9e",
+  "CLAIM_TO_FILE_GUIDE.md": "fab597420ddf14b867e00ad87a9db3d66203eb080bc70624c0301ac3ba094566",
+  "README.md": "da6614c2829222f8e3d38f0937fc165317bf77319797fd76d2acd3c37ea7a138",
   "data/figure9_approximate.csv": "3b5eb57c46194a54fa07bda22d94678d096ca2d9231357efdf85b8a4b85428bb",
-  "data/published_effects.csv": "68beaa0af221dbbd84e510b25f22972afa86d8856442b83ea6b64ea1e4e14c2b",
+  "data/published_effects.csv": "6eb8d63a589c00e1a605d0943b4074eb00324f4a686f439506a740b3e05cef63",
+  "data/table_c3_code_families.csv": "1d6b257bf64e233e92d274da39e3c39ce6206fd919dca60214ad3406a04ab3ea",
   "data/validation_counts.csv": "77a066102b96c33177a9a1baa739c7ef4ee5123cc182f40b3ff7015c1137efe0",
   "figures/Figure_C1_danish_code_ppv.png": "9ed49f612649b87d40c30f4754d16ffed64dff327c70b678522411c7a0a6a735",
   "figures/Figure_C2_hypothetical_selection.png": "5d7e4bece456e2056f3d8fa78f2e40219d449675609e8935033a19027e183de5",
@@ -13,9 +15,10 @@
   "manuscript_figures/Figure_C3.png": "c9633f3ad71462b1b4621c6057ff20d00db4c51b504e0ae2507b7102adb5f7ff",
   "manuscript_figures/Figure_C4.png": "6dc595501b5ab3518b49d9b5f23636b9ba746bb7ec84c66069eb34565f9c2547",
   "manuscript_figures/Figure_C5.png": "a9013cd051bd9300f3b099820ba487dc6b875a97152721e785207af32abe5e39",
-  "outputs/aggregate_checks.json": "e076e8bd1dea33df6a552d4fc13bf56369d5ad78f757acc6f7089ca0fc36ff74",
+  "outputs/aggregate_checks.json": "37a9256c3ae1ae4a3d0ad5023e5b5fd167ce5acbcde2fd64b19e28dbcb2b788e",
   "outputs/sample_selection_scenarios.csv": "3357c6b0d133bc8ca3d0da5baccfca74c8565d8ad9e7b571af9ab4daee7b206c",
   "outputs/validation_ppvs.csv": "4d22f53e42fb04222aa15585f4c62269b7f976b0d31bc7298fc2a44fb98e151a",
   "requirements.txt": "918080dd0563866316e2e00c785771a10801b86a8f388a191541e8de22e0e419",
-  "run_analysis.py": "86f79c46b5276083a5cc733b820324cc7f1ffdf301befda1cde03bc513253a25"
+  "run_analysis.py": "3c67408992cd3702c08c324c4f8cfce2d2478eebb759cd2ad78895e362e5b491",
+  "verify_package.py": "d567190a26cbcd08bf124bc8b7d0a72a5d49ed8db159c5fa48a741e035a220f0"
 }

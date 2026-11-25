@@ -30,7 +30,9 @@
     9.32,
     21.08
   ],
-  "conditional_unconditional_earnings_identity_reported_mean": 91627,
+  "conditional_unconditional_earnings_identity_reported_mean": 91627.0,
   "conditional_unconditional_earnings_identity_implied_mean": 87340.82,
-  "earnings_identity_difference_SEK": 4286.179999999993
+  "earnings_identity_difference_SEK": 4286.179999999993,
+  "decomposition_example_residual_after_5pp_adjustment": 8.67,
+  "decomposition_example_share_after_5pp_adjustment_percent": 71.63886162904808
 }

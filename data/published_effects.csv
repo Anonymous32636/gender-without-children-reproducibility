@@ -11,3 +11,12 @@ Survey comparison earnings mean,14236,,SEK,Landais et al 2026 Appendix Table V.1
 Initial cases,259,,persons,Landais et al 2026 appendix
 Retained Type I cases,152,,persons,Landais et al 2026 appendix
 Excluded cases,107,,persons,Landais et al 2026 appendix
+Reported Type I percent,62.9,,percent,"Landais et al 2026 case-flow appendix, printed percent"
+Reported excluded percent,37.1,,percent,"Landais et al 2026 case-flow appendix, printed percent"
+Early-career counterfactual gender gap,16.9,,percent,"Landais et al 2026 Section 4.5, ages 20-32"
+Early-career gap education adjusted,11.85,,percent,"Landais et al 2026 Figure 15 Panel A, ages 20-32"
+Early-career gap education and occupation adjusted,9.92,,percent,"Landais et al 2026 Figure 15 Panel B, ages 20-32"
+Swedish MRKH prevalence denominator per case,6319,,women per case,Landais et al 2026 appendix Table I.1 and prevalence text
+Unconditional earnings control mean Figure 8,91627,,SEK,Landais et al 2026 Figure 8
+Conditional earnings control mean Figure 8,110558,,SEK,Landais et al 2026 Figure 8
+Labor-force participation control share Figure 8,79,,percent,Landais et al 2026 Figure 8
