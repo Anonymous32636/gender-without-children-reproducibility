@@ -1,0 +1,13 @@
+measure,value,standard_error,unit,source
+Earnings advantage Figure 8,28.4,5.86,percent,Landais et al 2026 Figure 8
+STEM field-share full adjusted,3.3,9.2,percentage points,Landais et al 2026 Table 4
+STEM field-share diagnosed before age 18,15.2,3.0,percentage points,Landais et al 2026 Table 4
+Age 20 to 42 gender gap,30.37,,percent,Landais et al 2026 Figure 13
+Age 20 to 42 childless counterfactual residual,8.97,,percent,Landais et al 2026 Figure 13
+Age 32 to 42 gender gap,30.57,,percent,Landais et al 2026 Figure 13
+Age 32 to 42 childless counterfactual residual,3.67,,percent,Landais et al 2026 Figure 13
+Survey adjusted earnings coefficient,10514,3271,SEK,Landais et al 2026 Appendix Table V.1
+Survey comparison earnings mean,14236,,SEK,Landais et al 2026 Appendix Table V.1
+Initial cases,259,,persons,Landais et al 2026 appendix
+Retained Type I cases,152,,persons,Landais et al 2026 appendix
+Excluded cases,107,,persons,Landais et al 2026 appendix

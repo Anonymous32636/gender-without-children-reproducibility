@@ -1,0 +1,36 @@
+{
+  "swedish_mrkh_cases": 259,
+  "type_I_cases": 152,
+  "excluded_cases": 107,
+  "type_I_retained_percent": 58.68725868725869,
+  "excluded_percent": 41.312741312741316,
+  "reported_type_I_percent": 62.9,
+  "reported_excluded_percent": 37.1,
+  "implied_population_if_prevalence_1_in_6319": 1636621,
+  "danish_ppv_either_percent": 57.19178082191781,
+  "danish_ppv_both_percent": 92.85714285714286,
+  "gender_gap_share_ages_20_42_percent": 70.46427395456043,
+  "gender_gap_share_ages_32_42_percent": 87.99476611056592,
+  "education_explains_fraction_percent": 29.881656804733726,
+  "education_plus_occupation_fraction_percent": 41.301775147928986,
+  "earnings_effect_95ci_percent": [
+    16.9144,
+    39.8856
+  ],
+  "survey_earnings_effect_as_percent_of_control_mean": 73.85501545377915,
+  "survey_earnings_relative_95ci_holding_mean_fixed": [
+    28.82017420623771,
+    118.8898567013206
+  ],
+  "stem_full_95ci_pp": [
+    -14.732,
+    21.332
+  ],
+  "stem_early_95ci_pp": [
+    9.32,
+    21.08
+  ],
+  "conditional_unconditional_earnings_identity_reported_mean": 91627,
+  "conditional_unconditional_earnings_identity_implied_mean": 87340.82,
+  "earnings_identity_difference_SEK": 4286.179999999993
+}

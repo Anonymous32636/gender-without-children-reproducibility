@@ -1,0 +1,8 @@
+criterion,confirmed,assessed,printed_ppv_percent,source
+Q51.0 recorded,112,170,,Herlin et al 2016 Supplementary Table SI
+Q52.0 recorded,133,206,,Herlin et al 2016 Supplementary Table SI
+Either Q51.0 or Q52.0,167,292,62.5,Herlin et al 2016 Supplementary Table SI
+Both Q51.0 and Q52.0,78,84,17.4,Herlin et al 2016 Supplementary Table SI
+Primary diagnoses,160,258,57.2,Herlin et al 2016 Supplementary Table SI
+Secondary diagnoses,8,46,92.9,Herlin et al 2016 Supplementary Table SI
+Any of five screening codes,168,304,,Herlin et al 2016 Supplementary Table SI
